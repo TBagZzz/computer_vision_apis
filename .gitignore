@@ -1,0 +1,8 @@
+.DS_Store
+*.jpeg
+*.png
+OCR_log.txt
+label_log.xt
+logo_log.txt
+vision_api_credential.json
+natural_language_credential.json
